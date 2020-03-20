@@ -1,5 +1,7 @@
 ## 正正的运行需要配置代理 我用nginx
 
+[转载教程](https://blog.csdn.net/FungLeo/article/details/80690367)
+
 ```sh
 vim /etc/nginx/nginx.conf
 
